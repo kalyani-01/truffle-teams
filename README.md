@@ -1,1 +1,1 @@
-truffle-teams
+truffle-teams sample
